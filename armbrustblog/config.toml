@@ -84,7 +84,7 @@ dateFormat = "2006-01-02"
     noClasses = false
 
 [params.social]
-    GitHub = "https://github.com/daniel-armbrust"
-    Linkedin = "https://www.linkedin.com/in/daniel-armbrust/"
-    Twitter = "https://twitter.com/daniel_armbrust"    
-    Facebook = "https://www.facebook.com/armbrust.daniel/"
+    GitHub = "daniel-armbrust"
+    Linkedin = "daniel-armbrust"
+    Twitter = "daniel_armbrust"    
+    Facebook = "armbrust.daniel"
