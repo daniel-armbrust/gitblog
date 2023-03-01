@@ -27,7 +27,7 @@ dateFormat = "2006-01-02"
       subtitle = ""
       disclaimer = ""
       typeit = false
-      avatarURL = "/images/armbrust-photo.jpg"
+      avatarURL = "/blog/images/armbrust-photo.jpg"
 
 [params.footer]
     enable = true
