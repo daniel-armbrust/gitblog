@@ -1,0 +1,4 @@
+[submodule "armbrustblog/public"]
+	path = armbrustblog/public
+	url = git@github.com:daniel-armbrust/blog.git
+	branch = main
