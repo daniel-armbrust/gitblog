@@ -3,7 +3,7 @@ title: "Entendendo Processos e Threads"
 description: "O post tem o objetivo de apresentar o que são Processos e Threads."
 date: 2022-12-30T17:33:17-03:00
 lastmod: 2022-12-30T17:33:17-03:00
-featuredImage: "/images/entendendo-processos-e-threads/"
+featuredImage: "/blog/images/entendendo-processos-e-threads/"
 rssFullText: true
 draft: false
 ---
@@ -57,7 +57,7 @@ Visto que temos muitos modelos, separei alguns que eu tenho acesso direto. São 
 
 Antigamente, para se ter o real multiprocessamento, era necessário ter mais de um processador na mesma placa-mãe. 
 
-![alt_text](/images/entendendo-processos-e-threads/motherboard-dual-cpu.png  "Motherboard Dual-CPU")
+![alt_text](/blog/images/entendendo-processos-e-threads/motherboard-dual-cpu.png  "Motherboard Dual-CPU")
 
 *NOTA: Hoje em dia há alguns modelos de placas que possibilitam adicionar dois processadores.*
 

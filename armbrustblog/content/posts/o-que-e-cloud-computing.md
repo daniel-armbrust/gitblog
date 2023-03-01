@@ -3,7 +3,7 @@ title: "O que é Cloud Computing?"
 description: "O post tem o objetivo de descrever em linhas gerais o que é Cloud Computing."
 date: 2020-06-25T10:20:42-03:00
 lastmod: 2020-06-25T10:20:42-03:00
-featuredImage: "/images/featured_image-1593112059-o-que-e-cloud-computing.jpg"
+featuredImage: "/blog/images/featured_image-1593112059-o-que-e-cloud-computing.jpg"
 rssFullText: true
 draft: false
 comment:
